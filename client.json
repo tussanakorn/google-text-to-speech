@@ -1,9 +1,9 @@
 {
     "type": "service_account",
     "project_id": "civic-abode-321709",
-    "private_key_id": "afd0b4cda6971e68afa6a060a260e0257fdd9e17",
+    "private_key_id": "-----------------------------------",
     "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9nMooQlApmcH3\nWbyUz5/0mfzxg28elWLTImt3Tw23LwIAjsQMecmQRlQ+WtsustmoObQ2NlrqS1fH\naTUHgK8+awzZzON9TbXvol56vptm8W1vfRIAQ1lcEg3Vxz0DRch4h+ijajYkvynJ\nQWhQ5MyXy0j1mbT1E4uXNXffQEXFfCHQMZ71gWHcDSdcntEbRkV97gMOsLghTKwY\nExgx2Bqql+MvxtFqqyzZp1JtycMsB56uqgRcs3KzHCGgyowA3G0bIPnbhobofEd9\nq6AkZzZTodIJWP7OreCJ0YiszRP8vEyb3HoNB1b0fEkuOO6Kphj4ovQ+8nV3UeGo\nqUUzNAlJAgMBAAECggEACxR9b7V9pQtaHU/TcvK1tdUbGysuCXXQojvcVyAkfLQ0\n2Wl+T/2nPKoPbtwKUNlHWiA9GqnkeCp876ct38lc9Dh3NhxV8tLhXdEkKjy3LLXQ\n9Pc0X8A6buSTMGSFzoomY9IKqHn4E1T5u8v5rOMh3YDrO4bcNIdhhy2AWr27wLAd\ngFQhzcAZLr/H840CiLRhWqh6jaVpiDumzwSfyaCo/wOnZ2H8dyy5GQzA59Qj9ynm\nJZYQaG69ZLDTj948HENtFfuWEESePx7+LCK8wfFfjpov6u/FMzZ7CkHFrZ8XaeKN\n7IRM2xZOaDRyuxc8Glv2X6PSim1g/ylasJuofZf9sQKBgQDnn0vPSJMthz5pBK4p\nKV17wMdI8UfL6jn/Jqy9vozteFJ/prpRt+4X4S9pv+aBG/3fBqvLoUgIfEgD6H1j\ngVJNg0DYSuclC2KkgOIVQoE0fVMen36FDmUCHJaryngR15kmWPEtlqrtVYHf6M7Z\n5zt6mnNtyh2I2BpdCiqDhxDPnQKBgQDRkZrHPQkxT6P7VHd1I20SzLFxFnt+f8R2\nWfakuOr3ByJENELmV2niYgduceD0WCb8Ai1fAIG7IvXhBXpqLNCDAuV/fnvf6Lzb\nOBYREJfaOJbFbnbjK1PK4WZF2fgn+1aLgcMfDDKlH/UF8hqFMMUw93lVggzp0qSZ\naTH3LWiunQKBgQCR45z9Z6oEMD5YKXGFTZ+rNgaP5CGjx9lV48dEEER1wqa77olG\ntYJLGjQh+JQ4WCg0lOAad3CGn7lAdOydgzQSzIxIcA1dIOm10dQVLflx1UpIbI9l\nQWbPyLACbpnoKxM0uyrV2yO4L3aJUPsQ9vtYwvXXfknSCsO4PJIAnE8zZQKBgEpl\n6I7GylapMUvuRqJdO0GrTWsaUiksbrCda4Q66Z9c9vtDmmRvr/VgW8cHwpa8HMrm\ncvkBEw0+cg+6hCThV/zKsHK8knmBBFrG5H6WZ3JfGJdqieZH4W1q64Xsxb5b6fOI\n055YFDqux6uesW+LStYBZR/IFZGE6E5WHBjmE/25AoGBAOR+tJQP+fYyS6G7yw2A\nRpA4Y46C8wA8zVPeTTUYs3UUEX2lY/raM8fgYkxgXyT6kzUr4ezhQH3oTNcgYAiG\n5xffIfrnH059aflmOYM8nmEKg/SemRRVFaGPyheIk3/MxmRlJnGbV1bW41py1GEJ\nTnpC8krD6eeKbCJbQoz+y4eI\n-----END PRIVATE KEY-----\n",
-    "client_email": "text-to-speech@civic-abode-321709.iam.gserviceaccount.com",
+    "client_email": "-------------------------------------",
     "client_id": "105111314097335766344",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
     "token_uri": "https://oauth2.googleapis.com/token",
